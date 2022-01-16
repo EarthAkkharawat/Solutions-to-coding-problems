@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1424794088 source:/dae/Teaching/Data Structure/2557 - b/quiz/dq1_postfix/package/main.cpp
+	<iostream>
+	<vector>
+	<stack>
+	"student.cpp"
+
+1424795320 /dae/Teaching/Data Structure/2557 - b/quiz/dq1_postfix/package/student.cpp
+	<vector>
+
+1630393213 source:c:\users\user\desktop\main.cpp
+	<iostream>
+	<vector>
+	<stack>
+	"student.h"
+
+1630396118 c:\users\user\desktop\student.h
+	<vector>
+
